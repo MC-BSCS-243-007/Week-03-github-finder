@@ -82,7 +82,7 @@ src/
 docs/                      README screenshots
 public/                    favicon and Open Graph cover
 ```
-
+<!--  -->
 The search flow is a small state machine: `idle → loading → success | not-found | rate-limit | network | error`. Validation errors are kept separate so existing results stay visible while the user corrects the input.
 
 ## Accessibility notes

@@ -54,3 +54,4 @@ export function useRecentSearches() {
 
   return { recent, remember, clear }
 }
+// 

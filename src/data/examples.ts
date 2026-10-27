@@ -8,3 +8,4 @@ export const exampleProfiles: ExampleProfile[] = [
   { username: 'gaearon', note: 'React team' },
   { username: 'torvalds', note: 'Linux creator' },
 ]
+// 

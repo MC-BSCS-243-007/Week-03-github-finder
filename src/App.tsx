@@ -25,7 +25,7 @@ export default function App() {
     retry,
   } = useGithubSearch()
   const { recent, remember, clear } = useRecentSearches()
-
+// 
   const runSearch = useCallback(
     (raw: string) => {
       setInput(raw.trim())
