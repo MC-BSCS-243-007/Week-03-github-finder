@@ -2,7 +2,6 @@
 
 A focused GitHub profile finder built for **Internlytic Front-End Development — Phase 2, Week 03**. Enter a public handle (or paste a profile URL) and read the person, the numbers and the most recently updated repositories behind it.
 
-
 ## Features
 
 - **Flexible search** — accepts `octocat`, `@octocat` or `https://github.com/octocat`; submits with the button or the Enter key.
