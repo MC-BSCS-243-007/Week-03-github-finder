@@ -2,7 +2,6 @@
 
 A focused GitHub profile finder built for **Internlytic Front-End Development — Phase 2, Week 03**. Enter a public handle (or paste a profile URL) and read the person, the numbers and the most recently updated repositories behind it.
 
-![handle. desktop preview](docs/preview-desktop.jpg)
 
 ## Features
 
@@ -16,9 +15,7 @@ A focused GitHub profile finder built for **Internlytic Front-End Development �
 - **Responsive and accessible** — one-column start at 320 px, keyboard-friendly form and focus management, live regions, skip link, visible focus rings and reduced-motion support.
 - **No secrets** — the app talks to the public GitHub API directly from the browser and never contains a token.
 
-| Mobile result | 404 state |
-| --- | --- |
-| ![handle. mobile preview](docs/preview-mobile.jpg) | ![handle. not-found state](docs/preview-error.jpg) |
+
 
 ## API
 
